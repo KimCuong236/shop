@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": "b5af",
+      "name": "iphone 16",
+      "price": 111,
+      "available": true,
+      "type": "type2",
+      "category": "idCategory1",
+      "description": "a"
+    }
+  ]
+}
